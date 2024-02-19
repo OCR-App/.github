@@ -27,6 +27,6 @@ Our goal is to provide an accurate, reliable, and user-friendly OCR solution for
 
 - Mostafa Mohammadi: [mostafamohammadi2100@gmail.com]
 - Sajjad Fani: [faniam321@gmail.com]
-- Ali Oliaee: [alioliaee31@gmail.com>]
+- Ali Oliaee: [alioliaee31@gmail.com]
 
 
