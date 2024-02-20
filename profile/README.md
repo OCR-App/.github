@@ -2,6 +2,11 @@
 
 We've developed an OCR (Optical Character Recognition) application specifically designed for the Persian language. Our app utilizes advanced AI and machine learning technologies to accurately recognize and convert Persian text from images into editable and searchable digital text. Join us in our mission to make Persian text more accessible and easier to manage with our innovative OCR solution.
 
+<p align="center">
+<img src="./sc1.jpeg" width="30%" display="inline"/>
+<img src="./sc2.jpeg" width="30%" display="inline"/>
+</p>
+
 ## About Us
 
 We are a team of dedicated university students passionate about technology and language processing. Our team consists of:
@@ -28,5 +33,3 @@ Our goal is to provide an accurate, reliable, and user-friendly OCR solution for
 - Mostafa Mohammadi: [mostafamohammadi2100@gmail.com]
 - Sajjad Fani: [faniam321@gmail.com]
 - Ali Oliaee: [alioliaee31@gmail.com]
-
-
