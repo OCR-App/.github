@@ -3,8 +3,8 @@
 We've developed an OCR (Optical Character Recognition) application specifically designed for the Persian language. Our app utilizes advanced AI and machine learning technologies to accurately recognize and convert Persian text from images into editable and searchable digital text. Join us in our mission to make Persian text more accessible and easier to manage with our innovative OCR solution.
 
 <p align="center">
-<img src="./sc1.jpeg" width="30%" display="inline"/>
-<img src="./sc2.jpeg" width="30%" display="inline"/>
+<img src="./profile/sc1.jpeg" width="30%" display="inline"/>
+<img src="./profile/sc2.jpeg" width="30%" display="inline"/>
 </p>
 
 ## About Us
